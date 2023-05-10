@@ -1,2 +1,5 @@
 # Pattern-generator-test
-◕ ◞ ◕ This project was made using https://netnet.studio
+
+[link to project](https://beckaseifert.github.io/Pattern-generator-test/)
+
+This project was a recreation of the 10Print pattern originally created in Basic. Created using Javascript.
